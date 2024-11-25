@@ -16,7 +16,7 @@ export default function Navbar() {
         </div>
         <ul className="nav-menu">
             <li><a className="nav-menu-item" href="/">Home</a></li>
-            <li><a className="nav-menu-item" href="/">Info</a></li>
+            <li><a className="nav-menu-item" href="/ParkingSpace">ParkingSpace</a></li>
             <li><a className="nav-menu-item" href="/">Contact</a></li>
             <li>
             <div className="nav-menu-item nav-dropdown">
